@@ -1,0 +1,174 @@
+/*
+BootstrapCreative
+Created by: Jacob Lett
+Licensed MIT 
+2017
+
+1 rem    = 16px
+.75 rem  = 12px
+.5 rem   = 8px
+.25 rem  = 4px
+
+Bootstrap 4 breakpoints
+@media (min-width: 544px) { }
+@media (min-width: 768px) { }
+@media (min-width: 992px) { }
+@media (min-width: 1200px) { }
+
+Colors
+#0275d8 - primary blue
+#636c72 - light gray
+#292b2c - black
+*/
+
+
+/*
+####################################################
+G R I D  &  T Y P E
+####################################################
+*/
+
+section {
+  overflow: hidden;
+  margin-bottom: 2rem;
+}
+
+html, body, .container-fluid {
+    height: 100%;
+}
+
+#main {
+    min-height: 100vh;
+}
+
+/* Set a display font for headings and quotes */
+h1, h2, h3, h4, h5, 
+.navbar-brand, blockquote p, 
+.display-1, .display-2, .display-3, .display-4 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+}
+
+
+ul li {
+  margin-bottom: .2rem;
+}
+
+
+
+/*
+####################################################
+U T I L I T I E S
+####################################################
+*/
+
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Background color utilties
+*/
+.bg-gray-1 {
+  background-color: #f8f9fa!important;
+}
+
+.bg-gray-2 {
+  background-color: #e9ecef!important;
+}
+
+.bg-gray-3 {
+  background-color: #dee2e6!important;
+}
+
+.bg-gray-4 {
+  background-color: #ced4da!important;
+}
+
+.bg-gray-5 {
+  background-color: #adb5bd!important;
+}
+
+.bg-gray-6 {
+  background-color: #868e96!important;
+}
+
+.bg-gray-7 {
+  background-color: #495057!important;
+}
+
+.bg-gray-8 {
+  background-color: #343a40!important;
+}
+
+.bg-gray-9 {
+  background-color: #212529!important;
+}
+
+.bg-black {
+  background-color: #000!important;
+}
+
+
+/*
+####################################################
+C O M P O N E N T S
+####################################################
+*/
+
+
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+employment
+*/
+
+.employment-header h2 {
+  font-size: 1.2rem;
+}
+.employment-header h3 {
+  font-size: 1rem;
+}
+.employment-header p {
+  color:#868e96;
+  font-style: italic;
+  font-size: 14px;
+}
+
+
+/*
+####################################################
+S E C T I O N S / 
+####################################################
+*/
+
+
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Sidebar
+*/
+#sidebar h1, #sidebar p, #social a {
+  color:#fff;
+}
+
+#social .nav {
+  margin-top: 1rem;
+}
+
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Skills
+*/
+#skills .btn {
+  margin:0 .2rem .5rem;
+}
+
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Blog
+*/
+#blog small {
+  display: block;
+  font-style: italic;
+  margin-bottom: .5rem;
+}
+
+
+
+

@@ -1,2 +1,4 @@
-# pixel-portfolio
-Free developer / designer portfolio website template
+# Pixel Portfolio
+A free developer / designer portfolio website template
+
+Demo: 
