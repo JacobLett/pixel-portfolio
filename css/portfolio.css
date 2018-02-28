@@ -143,6 +143,16 @@ S E C T I O N S /
 ::::::::::::::::::::::::::::::::::::::::::::::::::::
 Sidebar
 */
+
+@media (min-width: 768px) { 
+#sidebar {
+  position: fixed;
+}
+
+}
+  
+
+
 #sidebar h1, #sidebar p, #social a {
   color:#fff;
 }
