@@ -144,7 +144,7 @@ S E C T I O N S /
 Sidebar
 */
 
-@media (min-width: 768px) { 
+@media (min-width: 992px) { 
 #sidebar {
   position: fixed;
   height:100vh;
