@@ -7,4 +7,11 @@ If you want to use this as your GitHub profile site and use a custom domain, fol
 
 Demo: https://jacoblett.github.io/pixel-portfolio/
 
+## How to make this your GitHub Profile page
+
+1. Create github repo and and name it [username].github.io 
+2. Publish it by going to settings and make sure master branch is used for github pages
+
+Then view your profile page https://[username].github.io/
+
 ![alt text](https://raw.githubusercontent.com/JacobLett/pixel-portfolio/master/screenshot.png "Free web developer portfolio website template")
